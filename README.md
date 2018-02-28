@@ -1,3 +1,5 @@
-# My Awesome Book
+# 簡潔高效的 PHP & Laravel 工作術：從 elementary OS 下手的聰明改造提案
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+傳統上大家對 Linux 的刻板印象或許都是介面醜、難用或僅淪為免費的替代品，但其實經過適當的挑選及目標導向的調校，Linux 也是有辦法成為開發人員的生產力工具，中看又中用！
+
+在接下來的 30 天裡，將使用 elementary OS 這個以 Ubuntu 為基底，自帶重新客製圖型桌面環境的 Linux，目標是同時滿足對設計的堅持與產能的要求，打造自己也愛用的 PHP & Laravel 開發工作環境。讓我們拋棄過往 Linux 只是簡陋替代品的印象，一起重新打破對 Linux 的認知吧！

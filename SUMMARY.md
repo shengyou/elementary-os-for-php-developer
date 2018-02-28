@@ -1,3 +1,3 @@
-# Table of content
+# 目錄
 
-* [First Chapter](chapter1.md)
+* [簡介](README.md)
