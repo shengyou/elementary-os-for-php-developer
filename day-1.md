@@ -2,7 +2,7 @@
 
 [elementary OS](https://elementary.io/) 是一個以 [Ubuntu](https://www.ubuntu.com/) 為基底，全新打造圖形化操作介面的一個發行版。其強調簡潔 (concision)、免設定 (avoid configuration) 及極簡文件 (minimal documentation) 的核心精神，意圖打造最易於使用的 Linux 操作體驗。
 
-![](/assets/day-1/elementary-homepage.png)
+![](assets/day-1/elementary-homepage.png)
 
 筆者一向是個視覺導向的人。當初看上 elementary OS，就是因為其畫面的優雅、輕量的預載環境及無負擔的學習曲線而受其吸引，加上本身工作的開發環境也是以 PHP/Laravel 的開源方案為主，一時突發奇想，*是不是有可能用 Linux 的圖型化發行版，打造一個讓 PHP 開發者也能輕鬆上手、開心工作的開發環境呢？*這系列主題於焉而生。
 
