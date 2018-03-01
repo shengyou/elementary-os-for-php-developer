@@ -15,3 +15,4 @@
 * [第 12 天：git 版本管理](day-12.md)
 * [第 13 天：以 apt 建置 PHP/Laravel 開發環境](day-13.md)
 * [第 14 天：以 XAMPP 建置 PHP/Laravel 開發環境](day-14.md)
+* [第 15 天：以 Vagrant 建置 PHP/Laravel 開發環境](day-15.md)
