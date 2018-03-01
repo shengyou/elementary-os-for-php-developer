@@ -2,3 +2,4 @@
 
 * [簡介](README.md)
 * [第 1 天：什麼是 elementary OS？](day-1.md)
+* [第 2 天：安裝前的準備工作](day-2.md)
