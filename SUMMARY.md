@@ -21,3 +21,4 @@
 * [第 18 天：安裝/設定 Vim 編輯器](day-18.md)
 * [第 19 天：安裝/設定 Sublime Text 編輯器](day-19.md)
 * [第 20 天：安裝/設定 Atom 編輯器](day-20.md)
+* [第 21 天：安裝/設定 Visual Studio Code 編輯器](day-21.md)
