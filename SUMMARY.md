@@ -8,3 +8,4 @@
 * [第 5 天：軟體安裝與更新](day-5.md)
 * [第 6 天：微調系統設定](day-6.md)
 * [第 7 天：安裝 Firefox 瀏覽器](day-7.md)
+* [第 8 天：安裝 Google Chrome 瀏覽器](day-8.md)
