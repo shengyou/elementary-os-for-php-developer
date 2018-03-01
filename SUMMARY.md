@@ -26,3 +26,4 @@
 * [第 23 天：安裝/使用指令列 HTTP Client](day-23.md)
 * [第 24 天：安裝/使用 Postman](day-24.md)
 * [第 25 天：安裝/使用 Insomnia](day-25.md)
+* [第 26 天：使用 PhpStorm 內建的 REST Client 功能](day-26.md)
