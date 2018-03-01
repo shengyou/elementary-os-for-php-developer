@@ -31,3 +31,4 @@
 * [第 28 天：安裝/使用 DBeaver 管理資料庫](day-28.md)
 * [第 29 天：使用 PhpStorm 內建的資料庫面板](day-29.md)
 * [第 30 天：延伸閱讀與總結](day-30.md)
+* [致謝](acknowledgement.md)
