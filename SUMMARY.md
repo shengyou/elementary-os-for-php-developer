@@ -18,3 +18,4 @@
 * [第 15 天：以 Vagrant 建置 PHP/Laravel 開發環境](day-15.md)
 * [第 16 天：以 Docker 建置 PHP/Laravel 開發環境](day-16.md)
 * [第 17 天：安裝 Node.js 及 NPM](day-17.md)
+* [第 18 天：安裝/設定 Vim 編輯器](day-18.md)
