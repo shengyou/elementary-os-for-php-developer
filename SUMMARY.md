@@ -27,3 +27,4 @@
 * [第 24 天：安裝/使用 Postman](day-24.md)
 * [第 25 天：安裝/使用 Insomnia](day-25.md)
 * [第 26 天：使用 PhpStorm 內建的 REST Client 功能](day-26.md)
+* [第 27 天：安裝/使用 Sqlectron 管理資料庫](day-27.md)
