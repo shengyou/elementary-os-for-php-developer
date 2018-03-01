@@ -25,3 +25,4 @@
 * [第 22 天：安裝/設定 PhpStorm](day-22.md)
 * [第 23 天：安裝/使用指令列 HTTP Client](day-23.md)
 * [第 24 天：安裝/使用 Postman](day-24.md)
+* [第 25 天：安裝/使用 Insomnia](day-25.md)
