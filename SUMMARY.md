@@ -10,3 +10,4 @@
 * [第 7 天：安裝 Firefox 瀏覽器](day-7.md)
 * [第 8 天：安裝 Google Chrome 瀏覽器](day-8.md)
 * [第 9 天：安裝 Brave 瀏覽器](day-9.md)
+* [第 10 天：安裝/設定中文輸入法](day-10.md)
